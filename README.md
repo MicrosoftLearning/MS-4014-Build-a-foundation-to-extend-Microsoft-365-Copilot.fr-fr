@@ -1,4 +1,4 @@
-# INF99X : Exemple de cours
+# MS-4014 : créer une base pour générer des assistant IA et étendre Microsoft 365 Copilot
 
 **Êtes-vous MCT ?** - Consultez notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
 
